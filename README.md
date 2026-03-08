@@ -160,7 +160,7 @@ tipo de servicios contratados y estado de evasión.
 
 ## 👤 Autor
 
-Proyecto desarrollado como parte del **Challenge 2 — Data Science LATAM**
+Hugo Rodríguez. Proyecto desarrollado como parte del **Challenge 2 — Data Science LATAM**
 
 ---
 
